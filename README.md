@@ -1,9 +1,17 @@
 Student Details
+
 Field	            |          Details
+
 Student Name	    |    Harshada Suresh Bhujbal
+
+Roll No.          |      AD2123
+
 PRN	                |         125UAD1264
+
 Class/Division	    |   SY B.Tech AI & DS – Div A
+
 Course Name	        | Object-Oriented Programming with c++
+
 Unit	            |  Unit 2- Inheritance
 
 ===========================================================
